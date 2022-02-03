@@ -1,0 +1,2 @@
+янв. 23, 2022 10:31:52 PM Main main
+INFO: The program ended with success: No errors have occurred.
